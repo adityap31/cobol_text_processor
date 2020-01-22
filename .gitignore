@@ -1,0 +1,11 @@
+# Editor directories and files
+.idea
+.vscode
+__pycache__
+*.pyc
+.vscode_cobol
+cobol_code/
+*.cbl
+*.CBL
+*.zip
+*.docx
